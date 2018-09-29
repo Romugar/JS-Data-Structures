@@ -14,4 +14,4 @@ Clase Queue teniendo en cuenta la prioridad del elemento añadido. Los elementos
 
 - CIRCULAR QUEUE
 
-Clase Queue que escribe hasta el final de la lista y luego vuelve desde el principio, la lista tiene un tamaño predeterminado, según lee elimina los datos. Solo sobreescribe si esos datos se han leido y solo lee hasta donde hay datos.
+Clase Queue que escribe hasta el final de la lista y luego vuelve desde el principio, la lista tiene un tamaño predeterminado, según lee elimina los datos. Solo sobreescribe si esos datos se han leido y solo lee hasta donde hay datos. 
