@@ -8,10 +8,14 @@ Last-In-First-Out. Clase con metodos para manejar un Stack. Los elementos salen 
 
 First-In-First-Out. Clase con metodos para manejar un Queue. Los elementos se añaden al final y salen del principio del array.
 
-- PRIORITY QUEUE CLASS
+- PRIORITY QUEUE
 
 Clase Queue teniendo en cuenta la prioridad del elemento añadido. Los elementos salen del principio del array y entran al final de los elementos que tengan la misma prioridad o si no hay elementos con la misma prioridad entrarian despues de los elementos con mayor prioridad.
 
 - CIRCULAR QUEUE
 
 Clase Queue que escribe hasta el final de la lista y luego vuelve desde el principio, la lista tiene un tamaño predeterminado, según lee elimina los datos. Solo sobreescribe si esos datos se han leido y solo lee hasta donde hay datos. 
+
+- THE SET
+
+A Set is like an array, but it cannot contain duplicate values. The typical use for a Set is to simply check for the presence of an item. It has union, intersection, difference and subset methods.
